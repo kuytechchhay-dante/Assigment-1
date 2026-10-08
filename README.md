@@ -2,7 +2,7 @@
 
 # Assignment1: Finger Count Detection assignment.
 
-# 1. Overview
+## 1. Overview
 
 This project is a real-time finger counting system using Python, OpenCV, MediaPipe, and a webcam. The program uses the webcam to detect hands and count how many fingers are raised.
 
@@ -16,7 +16,7 @@ Continuously update the count as the fingers move.
 Press q to close the program.
 The purpose of this assignment is to understand computer vision, hand tracking, and finger counting using Python.
 
-# 2. Equipment
+## 2. Equipment
 
 The equipment and software used in this assignment:
 
@@ -34,6 +34,4 @@ MediaPipe library
 
 Internet connection for installing libraries
 
-# 3. Project Structure
-
-The project contains the following files:
+## 3. Video of Finger count Detection
