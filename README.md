@@ -35,3 +35,5 @@ MediaPipe library
 Internet connection for installing libraries
 
 ## 3. Video of Finger count Detection
+
+https://youtube.com/shorts/-yCu3tBlxGg?si=_hQNbz9ybNBmQCl8
