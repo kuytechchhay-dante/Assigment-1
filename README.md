@@ -4,24 +4,16 @@
 
 # 1. Overview
 
-This project is a real-time finger counting system using Python, OpenCV, MediaPipe, and a webcam.
-
-The program uses the webcam to detect hands and count how many fingers are raised.
+This project is a real-time finger counting system using Python, OpenCV, MediaPipe, and a webcam. The program uses the webcam to detect hands and count how many fingers are raised.
 
 The system can:
 
 Detect up to two hands at the same time.
-
 Identify 21 landmarks on each hand.
-
 Count raised fingers from 0 to 5 per hand.
-
 Display the finger count on the camera screen.
-
 Continuously update the count as the fingers move.
-
 Press q to close the program.
-
 The purpose of this assignment is to understand computer vision, hand tracking, and finger counting using Python.
 
 # 2. Equipment
